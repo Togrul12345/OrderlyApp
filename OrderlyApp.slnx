@@ -1,0 +1,13 @@
+<Solution>
+  <Folder Name="/src/" />
+  <Folder Name="/src/Api/">
+    <Project Path="Orderly.Api/Orderly.Api.csproj" />
+  </Folder>
+  <Folder Name="/src/Core/">
+    <Project Path="Orderly.Application/Orderly.Application.csproj" />
+    <Project Path="Orderly.Domain/Orderly.Domain.csproj" />
+  </Folder>
+  <Folder Name="/src/Infrastructure/">
+    <Project Path="Orderly.Persistence/Orderly.Persistence.csproj" />
+  </Folder>
+</Solution>

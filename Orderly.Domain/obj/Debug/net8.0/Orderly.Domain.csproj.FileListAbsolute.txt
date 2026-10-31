@@ -1,0 +1,12 @@
+C:\Users\Togrul\source\repos\OrderlyApp\Orderly.Domain\bin\Debug\net8.0\Orderly.Domain.deps.json
+C:\Users\Togrul\source\repos\OrderlyApp\Orderly.Domain\bin\Debug\net8.0\Orderly.Domain.dll
+C:\Users\Togrul\source\repos\OrderlyApp\Orderly.Domain\bin\Debug\net8.0\Orderly.Domain.pdb
+C:\Users\Togrul\source\repos\OrderlyApp\Orderly.Domain\obj\Debug\net8.0\Orderly.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Togrul\source\repos\OrderlyApp\Orderly.Domain\obj\Debug\net8.0\Orderly.Domain.AssemblyInfoInputs.cache
+C:\Users\Togrul\source\repos\OrderlyApp\Orderly.Domain\obj\Debug\net8.0\Orderly.Domain.AssemblyInfo.cs
+C:\Users\Togrul\source\repos\OrderlyApp\Orderly.Domain\obj\Debug\net8.0\Orderly.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Togrul\source\repos\OrderlyApp\Orderly.Domain\obj\Debug\net8.0\Orderly.Domain.dll
+C:\Users\Togrul\source\repos\OrderlyApp\Orderly.Domain\obj\Debug\net8.0\refint\Orderly.Domain.dll
+C:\Users\Togrul\source\repos\OrderlyApp\Orderly.Domain\obj\Debug\net8.0\Orderly.Domain.pdb
+C:\Users\Togrul\source\repos\OrderlyApp\Orderly.Domain\obj\Debug\net8.0\ref\Orderly.Domain.dll
+C:\Users\Togrul\source\repos\OrderlyApp\Orderly.Domain\obj\Debug\net8.0\Orderly..6B5886CF.Up2Date

@@ -1,0 +1,15 @@
+C:\Users\Togrul\source\repos\OrderlyApp\Orderly.Application\bin\Debug\net8.0\Orderly.Application.deps.json
+C:\Users\Togrul\source\repos\OrderlyApp\Orderly.Application\bin\Debug\net8.0\Orderly.Application.dll
+C:\Users\Togrul\source\repos\OrderlyApp\Orderly.Application\bin\Debug\net8.0\Orderly.Application.pdb
+C:\Users\Togrul\source\repos\OrderlyApp\Orderly.Application\bin\Debug\net8.0\Orderly.Domain.dll
+C:\Users\Togrul\source\repos\OrderlyApp\Orderly.Application\bin\Debug\net8.0\Orderly.Domain.pdb
+C:\Users\Togrul\source\repos\OrderlyApp\Orderly.Application\obj\Debug\net8.0\Orderly.Application.csproj.AssemblyReference.cache
+C:\Users\Togrul\source\repos\OrderlyApp\Orderly.Application\obj\Debug\net8.0\Orderly.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Togrul\source\repos\OrderlyApp\Orderly.Application\obj\Debug\net8.0\Orderly.Application.AssemblyInfoInputs.cache
+C:\Users\Togrul\source\repos\OrderlyApp\Orderly.Application\obj\Debug\net8.0\Orderly.Application.AssemblyInfo.cs
+C:\Users\Togrul\source\repos\OrderlyApp\Orderly.Application\obj\Debug\net8.0\Orderly.Application.csproj.CoreCompileInputs.cache
+C:\Users\Togrul\source\repos\OrderlyApp\Orderly.Application\obj\Debug\net8.0\Orderly..7024A1E7.Up2Date
+C:\Users\Togrul\source\repos\OrderlyApp\Orderly.Application\obj\Debug\net8.0\Orderly.Application.dll
+C:\Users\Togrul\source\repos\OrderlyApp\Orderly.Application\obj\Debug\net8.0\refint\Orderly.Application.dll
+C:\Users\Togrul\source\repos\OrderlyApp\Orderly.Application\obj\Debug\net8.0\Orderly.Application.pdb
+C:\Users\Togrul\source\repos\OrderlyApp\Orderly.Application\obj\Debug\net8.0\ref\Orderly.Application.dll

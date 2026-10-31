@@ -1,0 +1,915 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Togrul\\source\\repos\\OrderlyApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7D3A10EF-F852-B4E8-F483-89910CDAC998}|Orderly.Api\\Orderly.Api.csproj|c:\\users\\togrul\\source\\repos\\orderlyapp\\orderly.api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D3A10EF-F852-B4E8-F483-89910CDAC998}|Orderly.Api\\Orderly.Api.csproj|solutionrelative:orderly.api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79B27F3E-E129-85A8-2432-A0D10F4BB79D}|Orderly.Application\\Orderly.Application.csproj|c:\\users\\togrul\\source\\repos\\orderlyapp\\orderly.application\\features\\mediatr\\queries\\products\\gettopsellingproducts\\gettopsellingproductquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79B27F3E-E129-85A8-2432-A0D10F4BB79D}|Orderly.Application\\Orderly.Application.csproj|solutionrelative:orderly.application\\features\\mediatr\\queries\\products\\gettopsellingproducts\\gettopsellingproductquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79B27F3E-E129-85A8-2432-A0D10F4BB79D}|Orderly.Application\\Orderly.Application.csproj|c:\\users\\togrul\\source\\repos\\orderlyapp\\orderly.application\\features\\mediatr\\queries\\products\\gettopsellingproducts\\gettopsellingproductsqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79B27F3E-E129-85A8-2432-A0D10F4BB79D}|Orderly.Application\\Orderly.Application.csproj|solutionrelative:orderly.application\\features\\mediatr\\queries\\products\\gettopsellingproducts\\gettopsellingproductsqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79B27F3E-E129-85A8-2432-A0D10F4BB79D}|Orderly.Application\\Orderly.Application.csproj|c:\\users\\togrul\\source\\repos\\orderlyapp\\orderly.application\\features\\mediatr\\queries\\products\\gettopsellingproducts\\topsellingproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79B27F3E-E129-85A8-2432-A0D10F4BB79D}|Orderly.Application\\Orderly.Application.csproj|solutionrelative:orderly.application\\features\\mediatr\\queries\\products\\gettopsellingproducts\\topsellingproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C364F06-90BA-8B0A-D059-C1D2830C700E}|Orderly.Domain\\Orderly.Domain.csproj|c:\\users\\togrul\\source\\repos\\orderlyapp\\orderly.domain\\entities\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C364F06-90BA-8B0A-D059-C1D2830C700E}|Orderly.Domain\\Orderly.Domain.csproj|solutionrelative:orderly.domain\\entities\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79B27F3E-E129-85A8-2432-A0D10F4BB79D}|Orderly.Application\\Orderly.Application.csproj|c:\\users\\togrul\\source\\repos\\orderlyapp\\orderly.application\\features\\mediatr\\queries\\orders\\getordersbyrestoraunt\\getordersbyrestaurantqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79B27F3E-E129-85A8-2432-A0D10F4BB79D}|Orderly.Application\\Orderly.Application.csproj|solutionrelative:orderly.application\\features\\mediatr\\queries\\orders\\getordersbyrestoraunt\\getordersbyrestaurantqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D3A10EF-F852-B4E8-F483-89910CDAC998}|Orderly.Api\\Orderly.Api.csproj|c:\\users\\togrul\\source\\repos\\orderlyapp\\orderly.api\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D3A10EF-F852-B4E8-F483-89910CDAC998}|Orderly.Api\\Orderly.Api.csproj|solutionrelative:orderly.api\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79B27F3E-E129-85A8-2432-A0D10F4BB79D}|Orderly.Application\\Orderly.Application.csproj|c:\\users\\togrul\\source\\repos\\orderlyapp\\orderly.application\\features\\mediatr\\queries\\orders\\getordersbyrestoraunt\\getordersbyrestaurantquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79B27F3E-E129-85A8-2432-A0D10F4BB79D}|Orderly.Application\\Orderly.Application.csproj|solutionrelative:orderly.application\\features\\mediatr\\queries\\orders\\getordersbyrestoraunt\\getordersbyrestaurantquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79B27F3E-E129-85A8-2432-A0D10F4BB79D}|Orderly.Application\\Orderly.Application.csproj|c:\\users\\togrul\\source\\repos\\orderlyapp\\orderly.application\\features\\mediatr\\queries\\orders\\getordersbyrestoraunt\\orderlistdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79B27F3E-E129-85A8-2432-A0D10F4BB79D}|Orderly.Application\\Orderly.Application.csproj|solutionrelative:orderly.application\\features\\mediatr\\queries\\orders\\getordersbyrestoraunt\\orderlistdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55FC9D5B-2201-861B-FF12-9F4F87CF6A2C}|Orderly.Persistence\\Orderly.Persistence.csproj|c:\\users\\togrul\\source\\repos\\orderlyapp\\orderly.persistence\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55FC9D5B-2201-861B-FF12-9F4F87CF6A2C}|Orderly.Persistence\\Orderly.Persistence.csproj|solutionrelative:orderly.persistence\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79B27F3E-E129-85A8-2432-A0D10F4BB79D}|Orderly.Application\\Orderly.Application.csproj|c:\\users\\togrul\\source\\repos\\orderlyapp\\orderly.application\\repositories\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79B27F3E-E129-85A8-2432-A0D10F4BB79D}|Orderly.Application\\Orderly.Application.csproj|solutionrelative:orderly.application\\repositories\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79B27F3E-E129-85A8-2432-A0D10F4BB79D}|Orderly.Application\\Orderly.Application.csproj|c:\\users\\togrul\\source\\repos\\orderlyapp\\orderly.application\\features\\mediatr\\commands\\orders\\changeorderstatus\\changeorderstatuscommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79B27F3E-E129-85A8-2432-A0D10F4BB79D}|Orderly.Application\\Orderly.Application.csproj|solutionrelative:orderly.application\\features\\mediatr\\commands\\orders\\changeorderstatus\\changeorderstatuscommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79B27F3E-E129-85A8-2432-A0D10F4BB79D}|Orderly.Application\\Orderly.Application.csproj|c:\\users\\togrul\\source\\repos\\orderlyapp\\orderly.application\\features\\mediatr\\commands\\orders\\changeorderstatus\\changeorderstatuscommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79B27F3E-E129-85A8-2432-A0D10F4BB79D}|Orderly.Application\\Orderly.Application.csproj|solutionrelative:orderly.application\\features\\mediatr\\commands\\orders\\changeorderstatus\\changeorderstatuscommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79B27F3E-E129-85A8-2432-A0D10F4BB79D}|Orderly.Application\\Orderly.Application.csproj|c:\\users\\togrul\\source\\repos\\orderlyapp\\orderly.application\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79B27F3E-E129-85A8-2432-A0D10F4BB79D}|Orderly.Application\\Orderly.Application.csproj|solutionrelative:orderly.application\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C364F06-90BA-8B0A-D059-C1D2830C700E}|Orderly.Domain\\Orderly.Domain.csproj|c:\\users\\togrul\\source\\repos\\orderlyapp\\orderly.domain\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C364F06-90BA-8B0A-D059-C1D2830C700E}|Orderly.Domain\\Orderly.Domain.csproj|solutionrelative:orderly.domain\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79B27F3E-E129-85A8-2432-A0D10F4BB79D}|Orderly.Application\\Orderly.Application.csproj|c:\\users\\togrul\\source\\repos\\orderlyapp\\orderly.application\\features\\mediatr\\commands\\orders\\create\\createordercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79B27F3E-E129-85A8-2432-A0D10F4BB79D}|Orderly.Application\\Orderly.Application.csproj|solutionrelative:orderly.application\\features\\mediatr\\commands\\orders\\create\\createordercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79B27F3E-E129-85A8-2432-A0D10F4BB79D}|Orderly.Application\\Orderly.Application.csproj|c:\\users\\togrul\\source\\repos\\orderlyapp\\orderly.application\\features\\mediatr\\commands\\orders\\create\\createordercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79B27F3E-E129-85A8-2432-A0D10F4BB79D}|Orderly.Application\\Orderly.Application.csproj|solutionrelative:orderly.application\\features\\mediatr\\commands\\orders\\create\\createordercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79B27F3E-E129-85A8-2432-A0D10F4BB79D}|Orderly.Application\\Orderly.Application.csproj|c:\\users\\togrul\\source\\repos\\orderlyapp\\orderly.application\\features\\mediatr\\commands\\orders\\create\\orderresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79B27F3E-E129-85A8-2432-A0D10F4BB79D}|Orderly.Application\\Orderly.Application.csproj|solutionrelative:orderly.application\\features\\mediatr\\commands\\orders\\create\\orderresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79B27F3E-E129-85A8-2432-A0D10F4BB79D}|Orderly.Application\\Orderly.Application.csproj|c:\\users\\togrul\\source\\repos\\orderlyapp\\orderly.application\\features\\mediatr\\commands\\products\\update\\updateproductcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79B27F3E-E129-85A8-2432-A0D10F4BB79D}|Orderly.Application\\Orderly.Application.csproj|solutionrelative:orderly.application\\features\\mediatr\\commands\\products\\update\\updateproductcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79B27F3E-E129-85A8-2432-A0D10F4BB79D}|Orderly.Application\\Orderly.Application.csproj|c:\\users\\togrul\\source\\repos\\orderlyapp\\orderly.application\\features\\mediatr\\commands\\products\\update\\updateproductcommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79B27F3E-E129-85A8-2432-A0D10F4BB79D}|Orderly.Application\\Orderly.Application.csproj|solutionrelative:orderly.application\\features\\mediatr\\commands\\products\\update\\updateproductcommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55FC9D5B-2201-861B-FF12-9F4F87CF6A2C}|Orderly.Persistence\\Orderly.Persistence.csproj|c:\\users\\togrul\\source\\repos\\orderlyapp\\orderly.persistence\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55FC9D5B-2201-861B-FF12-9F4F87CF6A2C}|Orderly.Persistence\\Orderly.Persistence.csproj|solutionrelative:orderly.persistence\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55FC9D5B-2201-861B-FF12-9F4F87CF6A2C}|Orderly.Persistence\\Orderly.Persistence.csproj|c:\\users\\togrul\\source\\repos\\orderlyapp\\orderly.persistence\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55FC9D5B-2201-861B-FF12-9F4F87CF6A2C}|Orderly.Persistence\\Orderly.Persistence.csproj|solutionrelative:orderly.persistence\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79B27F3E-E129-85A8-2432-A0D10F4BB79D}|Orderly.Application\\Orderly.Application.csproj|c:\\users\\togrul\\source\\repos\\orderlyapp\\orderly.application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79B27F3E-E129-85A8-2432-A0D10F4BB79D}|Orderly.Application\\Orderly.Application.csproj|solutionrelative:orderly.application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55FC9D5B-2201-861B-FF12-9F4F87CF6A2C}|Orderly.Persistence\\Orderly.Persistence.csproj|c:\\users\\togrul\\source\\repos\\orderlyapp\\orderly.persistence\\repositories\\restourantrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55FC9D5B-2201-861B-FF12-9F4F87CF6A2C}|Orderly.Persistence\\Orderly.Persistence.csproj|solutionrelative:orderly.persistence\\repositories\\restourantrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79B27F3E-E129-85A8-2432-A0D10F4BB79D}|Orderly.Application\\Orderly.Application.csproj|c:\\users\\togrul\\source\\repos\\orderlyapp\\orderly.application\\repositories\\irestourantrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79B27F3E-E129-85A8-2432-A0D10F4BB79D}|Orderly.Application\\Orderly.Application.csproj|solutionrelative:orderly.application\\repositories\\irestourantrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79B27F3E-E129-85A8-2432-A0D10F4BB79D}|Orderly.Application\\Orderly.Application.csproj|c:\\users\\togrul\\source\\repos\\orderlyapp\\orderly.application\\features\\mediatr\\commands\\orders\\create\\createorderitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79B27F3E-E129-85A8-2432-A0D10F4BB79D}|Orderly.Application\\Orderly.Application.csproj|solutionrelative:orderly.application\\features\\mediatr\\commands\\orders\\create\\createorderitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79B27F3E-E129-85A8-2432-A0D10F4BB79D}|Orderly.Application\\Orderly.Application.csproj|c:\\users\\togrul\\source\\repos\\orderlyapp\\orderly.application\\common\\behaviours\\validationbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79B27F3E-E129-85A8-2432-A0D10F4BB79D}|Orderly.Application\\Orderly.Application.csproj|solutionrelative:orderly.application\\common\\behaviours\\validationbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79B27F3E-E129-85A8-2432-A0D10F4BB79D}|Orderly.Application\\Orderly.Application.csproj|c:\\users\\togrul\\source\\repos\\orderlyapp\\orderly.application\\features\\mediatr\\commands\\products\\update\\updateproductcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79B27F3E-E129-85A8-2432-A0D10F4BB79D}|Orderly.Application\\Orderly.Application.csproj|solutionrelative:orderly.application\\features\\mediatr\\commands\\products\\update\\updateproductcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79B27F3E-E129-85A8-2432-A0D10F4BB79D}|Orderly.Application\\Orderly.Application.csproj|c:\\users\\togrul\\source\\repos\\orderlyapp\\orderly.application\\features\\mediatr\\commands\\products\\create\\createproductcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79B27F3E-E129-85A8-2432-A0D10F4BB79D}|Orderly.Application\\Orderly.Application.csproj|solutionrelative:orderly.application\\features\\mediatr\\commands\\products\\create\\createproductcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79B27F3E-E129-85A8-2432-A0D10F4BB79D}|Orderly.Application\\Orderly.Application.csproj|c:\\users\\togrul\\source\\repos\\orderlyapp\\orderly.application\\features\\mediatr\\commands\\products\\create\\createproductcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79B27F3E-E129-85A8-2432-A0D10F4BB79D}|Orderly.Application\\Orderly.Application.csproj|solutionrelative:orderly.application\\features\\mediatr\\commands\\products\\create\\createproductcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55FC9D5B-2201-861B-FF12-9F4F87CF6A2C}|Orderly.Persistence\\Orderly.Persistence.csproj|c:\\users\\togrul\\source\\repos\\orderlyapp\\orderly.persistence\\configurations\\restotauntconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55FC9D5B-2201-861B-FF12-9F4F87CF6A2C}|Orderly.Persistence\\Orderly.Persistence.csproj|solutionrelative:orderly.persistence\\configurations\\restotauntconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55FC9D5B-2201-861B-FF12-9F4F87CF6A2C}|Orderly.Persistence\\Orderly.Persistence.csproj|c:\\users\\togrul\\source\\repos\\orderlyapp\\orderly.persistence\\configurations\\categoryconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55FC9D5B-2201-861B-FF12-9F4F87CF6A2C}|Orderly.Persistence\\Orderly.Persistence.csproj|solutionrelative:orderly.persistence\\configurations\\categoryconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55FC9D5B-2201-861B-FF12-9F4F87CF6A2C}|Orderly.Persistence\\Orderly.Persistence.csproj|c:\\users\\togrul\\source\\repos\\orderlyapp\\orderly.persistence\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55FC9D5B-2201-861B-FF12-9F4F87CF6A2C}|Orderly.Persistence\\Orderly.Persistence.csproj|solutionrelative:orderly.persistence\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C364F06-90BA-8B0A-D059-C1D2830C700E}|Orderly.Domain\\Orderly.Domain.csproj|c:\\users\\togrul\\source\\repos\\orderlyapp\\orderly.domain\\entities\\restorantcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C364F06-90BA-8B0A-D059-C1D2830C700E}|Orderly.Domain\\Orderly.Domain.csproj|solutionrelative:orderly.domain\\entities\\restorantcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55FC9D5B-2201-861B-FF12-9F4F87CF6A2C}|Orderly.Persistence\\Orderly.Persistence.csproj|c:\\users\\togrul\\source\\repos\\orderlyapp\\orderly.persistence\\configurations\\productconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55FC9D5B-2201-861B-FF12-9F4F87CF6A2C}|Orderly.Persistence\\Orderly.Persistence.csproj|solutionrelative:orderly.persistence\\configurations\\productconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C364F06-90BA-8B0A-D059-C1D2830C700E}|Orderly.Domain\\Orderly.Domain.csproj|c:\\users\\togrul\\source\\repos\\orderlyapp\\orderly.domain\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C364F06-90BA-8B0A-D059-C1D2830C700E}|Orderly.Domain\\Orderly.Domain.csproj|solutionrelative:orderly.domain\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79B27F3E-E129-85A8-2432-A0D10F4BB79D}|Orderly.Application\\Orderly.Application.csproj|c:\\users\\togrul\\source\\repos\\orderlyapp\\orderly.application\\features\\mediatr\\commands\\products\\create\\createproductcommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79B27F3E-E129-85A8-2432-A0D10F4BB79D}|Orderly.Application\\Orderly.Application.csproj|solutionrelative:orderly.application\\features\\mediatr\\commands\\products\\create\\createproductcommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D3A10EF-F852-B4E8-F483-89910CDAC998}|Orderly.Api\\Orderly.Api.csproj|c:\\users\\togrul\\source\\repos\\orderlyapp\\orderly.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D3A10EF-F852-B4E8-F483-89910CDAC998}|Orderly.Api\\Orderly.Api.csproj|solutionrelative:orderly.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55FC9D5B-2201-861B-FF12-9F4F87CF6A2C}|Orderly.Persistence\\Orderly.Persistence.csproj|c:\\users\\togrul\\source\\repos\\orderlyapp\\orderly.persistence\\repositories\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55FC9D5B-2201-861B-FF12-9F4F87CF6A2C}|Orderly.Persistence\\Orderly.Persistence.csproj|solutionrelative:orderly.persistence\\repositories\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79B27F3E-E129-85A8-2432-A0D10F4BB79D}|Orderly.Application\\Orderly.Application.csproj|c:\\users\\togrul\\source\\repos\\orderlyapp\\orderly.application\\repositories\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79B27F3E-E129-85A8-2432-A0D10F4BB79D}|Orderly.Application\\Orderly.Application.csproj|solutionrelative:orderly.application\\repositories\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79B27F3E-E129-85A8-2432-A0D10F4BB79D}|Orderly.Application\\Orderly.Application.csproj|c:\\users\\togrul\\source\\repos\\orderlyapp\\orderly.application\\features\\mediatr\\commands\\products\\create\\productresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79B27F3E-E129-85A8-2432-A0D10F4BB79D}|Orderly.Application\\Orderly.Application.csproj|solutionrelative:orderly.application\\features\\mediatr\\commands\\products\\create\\productresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C364F06-90BA-8B0A-D059-C1D2830C700E}|Orderly.Domain\\Orderly.Domain.csproj|c:\\users\\togrul\\source\\repos\\orderlyapp\\orderly.domain\\common\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C364F06-90BA-8B0A-D059-C1D2830C700E}|Orderly.Domain\\Orderly.Domain.csproj|solutionrelative:orderly.domain\\common\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D3A10EF-F852-B4E8-F483-89910CDAC998}|Orderly.Api\\Orderly.Api.csproj|c:\\users\\togrul\\source\\repos\\orderlyapp\\orderly.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7D3A10EF-F852-B4E8-F483-89910CDAC998}|Orderly.Api\\Orderly.Api.csproj|solutionrelative:orderly.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55FC9D5B-2201-861B-FF12-9F4F87CF6A2C}|Orderly.Persistence\\Orderly.Persistence.csproj|c:\\users\\togrul\\source\\repos\\orderlyapp\\orderly.persistence\\configurations\\orderitemconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55FC9D5B-2201-861B-FF12-9F4F87CF6A2C}|Orderly.Persistence\\Orderly.Persistence.csproj|solutionrelative:orderly.persistence\\configurations\\orderitemconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55FC9D5B-2201-861B-FF12-9F4F87CF6A2C}|Orderly.Persistence\\Orderly.Persistence.csproj|c:\\users\\togrul\\source\\repos\\orderlyapp\\orderly.persistence\\configurations\\orderconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55FC9D5B-2201-861B-FF12-9F4F87CF6A2C}|Orderly.Persistence\\Orderly.Persistence.csproj|solutionrelative:orderly.persistence\\configurations\\orderconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55FC9D5B-2201-861B-FF12-9F4F87CF6A2C}|Orderly.Persistence\\Orderly.Persistence.csproj|c:\\users\\togrul\\source\\repos\\orderlyapp\\orderly.persistence\\configurations\\orderstatusconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55FC9D5B-2201-861B-FF12-9F4F87CF6A2C}|Orderly.Persistence\\Orderly.Persistence.csproj|solutionrelative:orderly.persistence\\configurations\\orderstatusconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55FC9D5B-2201-861B-FF12-9F4F87CF6A2C}|Orderly.Persistence\\Orderly.Persistence.csproj|c:\\users\\togrul\\source\\repos\\orderlyapp\\orderly.persistence\\migrations\\20261030161232_init5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55FC9D5B-2201-861B-FF12-9F4F87CF6A2C}|Orderly.Persistence\\Orderly.Persistence.csproj|solutionrelative:orderly.persistence\\migrations\\20261030161232_init5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55FC9D5B-2201-861B-FF12-9F4F87CF6A2C}|Orderly.Persistence\\Orderly.Persistence.csproj|c:\\users\\togrul\\source\\repos\\orderlyapp\\orderly.persistence\\migrations\\20261030155843_init4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55FC9D5B-2201-861B-FF12-9F4F87CF6A2C}|Orderly.Persistence\\Orderly.Persistence.csproj|solutionrelative:orderly.persistence\\migrations\\20261030155843_init4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55FC9D5B-2201-861B-FF12-9F4F87CF6A2C}|Orderly.Persistence\\Orderly.Persistence.csproj|c:\\users\\togrul\\source\\repos\\orderlyapp\\orderly.persistence\\migrations\\20261030155009_init3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55FC9D5B-2201-861B-FF12-9F4F87CF6A2C}|Orderly.Persistence\\Orderly.Persistence.csproj|solutionrelative:orderly.persistence\\migrations\\20261030155009_init3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55FC9D5B-2201-861B-FF12-9F4F87CF6A2C}|Orderly.Persistence\\Orderly.Persistence.csproj|c:\\users\\togrul\\source\\repos\\orderlyapp\\orderly.persistence\\migrations\\20261030154222_init2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55FC9D5B-2201-861B-FF12-9F4F87CF6A2C}|Orderly.Persistence\\Orderly.Persistence.csproj|solutionrelative:orderly.persistence\\migrations\\20261030154222_init2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55FC9D5B-2201-861B-FF12-9F4F87CF6A2C}|Orderly.Persistence\\Orderly.Persistence.csproj|c:\\users\\togrul\\source\\repos\\orderlyapp\\orderly.persistence\\migrations\\20261030143958_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55FC9D5B-2201-861B-FF12-9F4F87CF6A2C}|Orderly.Persistence\\Orderly.Persistence.csproj|solutionrelative:orderly.persistence\\migrations\\20261030143958_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 202,
+          "SelectedChildIndex": 36,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:6:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:10:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:13:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GetTopSellingProductsQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Togrul\\source\\repos\\OrderlyApp\\Orderly.Application\\Features\\MediatR\\Queries\\Products\\GetTopSellingProducts\\GetTopSellingProductsQueryHandler.cs",
+              "RelativeDocumentMoniker": "Orderly.Application\\Features\\MediatR\\Queries\\Products\\GetTopSellingProducts\\GetTopSellingProductsQueryHandler.cs",
+              "ToolTip": "C:\\Users\\Togrul\\source\\repos\\OrderlyApp\\Orderly.Application\\Features\\MediatR\\Queries\\Products\\GetTopSellingProducts\\GetTopSellingProductsQueryHandler.cs*",
+              "RelativeToolTip": "Orderly.Application\\Features\\MediatR\\Queries\\Products\\GetTopSellingProducts\\GetTopSellingProductsQueryHandler.cs*",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAACQAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-31T15:29:38.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GetTopSellingProductQuery.cs",
+              "DocumentMoniker": "C:\\Users\\Togrul\\source\\repos\\OrderlyApp\\Orderly.Application\\Features\\MediatR\\Queries\\Products\\GetTopSellingProducts\\GetTopSellingProductQuery.cs",
+              "RelativeDocumentMoniker": "Orderly.Application\\Features\\MediatR\\Queries\\Products\\GetTopSellingProducts\\GetTopSellingProductQuery.cs",
+              "ToolTip": "C:\\Users\\Togrul\\source\\repos\\OrderlyApp\\Orderly.Application\\Features\\MediatR\\Queries\\Products\\GetTopSellingProducts\\GetTopSellingProductQuery.cs*",
+              "RelativeToolTip": "Orderly.Application\\Features\\MediatR\\Queries\\Products\\GetTopSellingProducts\\GetTopSellingProductQuery.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-31T15:29:03.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TopSellingProductDto.cs",
+              "DocumentMoniker": "C:\\Users\\Togrul\\source\\repos\\OrderlyApp\\Orderly.Application\\Features\\MediatR\\Queries\\Products\\GetTopSellingProducts\\TopSellingProductDto.cs",
+              "RelativeDocumentMoniker": "Orderly.Application\\Features\\MediatR\\Queries\\Products\\GetTopSellingProducts\\TopSellingProductDto.cs",
+              "ToolTip": "C:\\Users\\Togrul\\source\\repos\\OrderlyApp\\Orderly.Application\\Features\\MediatR\\Queries\\Products\\GetTopSellingProducts\\TopSellingProductDto.cs*",
+              "RelativeToolTip": "Orderly.Application\\Features\\MediatR\\Queries\\Products\\GetTopSellingProducts\\TopSellingProductDto.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-31T15:28:27.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GetOrdersByRestaurantQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Togrul\\source\\repos\\OrderlyApp\\Orderly.Application\\Features\\MediatR\\Queries\\Orders\\GetOrdersByRestoraunt\\GetOrdersByRestaurantQueryHandler.cs",
+              "RelativeDocumentMoniker": "Orderly.Application\\Features\\MediatR\\Queries\\Orders\\GetOrdersByRestoraunt\\GetOrdersByRestaurantQueryHandler.cs",
+              "ToolTip": "C:\\Users\\Togrul\\source\\repos\\OrderlyApp\\Orderly.Application\\Features\\MediatR\\Queries\\Orders\\GetOrdersByRestoraunt\\GetOrdersByRestaurantQueryHandler.cs",
+              "RelativeToolTip": "Orderly.Application\\Features\\MediatR\\Queries\\Orders\\GetOrdersByRestoraunt\\GetOrdersByRestaurantQueryHandler.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAuwDcAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-31T15:13:41.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GetOrdersByRestaurantQuery.cs",
+              "DocumentMoniker": "C:\\Users\\Togrul\\source\\repos\\OrderlyApp\\Orderly.Application\\Features\\MediatR\\Queries\\Orders\\GetOrdersByRestoraunt\\GetOrdersByRestaurantQuery.cs",
+              "RelativeDocumentMoniker": "Orderly.Application\\Features\\MediatR\\Queries\\Orders\\GetOrdersByRestoraunt\\GetOrdersByRestaurantQuery.cs",
+              "ToolTip": "C:\\Users\\Togrul\\source\\repos\\OrderlyApp\\Orderly.Application\\Features\\MediatR\\Queries\\Orders\\GetOrdersByRestoraunt\\GetOrdersByRestaurantQuery.cs",
+              "RelativeToolTip": "Orderly.Application\\Features\\MediatR\\Queries\\Orders\\GetOrdersByRestoraunt\\GetOrdersByRestaurantQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-31T15:13:11.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OrderListDto.cs",
+              "DocumentMoniker": "C:\\Users\\Togrul\\source\\repos\\OrderlyApp\\Orderly.Application\\Features\\MediatR\\Queries\\Orders\\GetOrdersByRestoraunt\\OrderListDto.cs",
+              "RelativeDocumentMoniker": "Orderly.Application\\Features\\MediatR\\Queries\\Orders\\GetOrdersByRestoraunt\\OrderListDto.cs",
+              "ToolTip": "C:\\Users\\Togrul\\source\\repos\\OrderlyApp\\Orderly.Application\\Features\\MediatR\\Queries\\Orders\\GetOrdersByRestoraunt\\OrderListDto.cs",
+              "RelativeToolTip": "Orderly.Application\\Features\\MediatR\\Queries\\Orders\\GetOrdersByRestoraunt\\OrderListDto.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA2wBsAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-31T15:11:57.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ChangeOrderStatusCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Togrul\\source\\repos\\OrderlyApp\\Orderly.Application\\Features\\MediatR\\Commands\\Orders\\ChangeOrderStatus\\ChangeOrderStatusCommandHandler.cs",
+              "RelativeDocumentMoniker": "Orderly.Application\\Features\\MediatR\\Commands\\Orders\\ChangeOrderStatus\\ChangeOrderStatusCommandHandler.cs",
+              "ToolTip": "C:\\Users\\Togrul\\source\\repos\\OrderlyApp\\Orderly.Application\\Features\\MediatR\\Commands\\Orders\\ChangeOrderStatus\\ChangeOrderStatusCommandHandler.cs",
+              "RelativeToolTip": "Orderly.Application\\Features\\MediatR\\Commands\\Orders\\ChangeOrderStatus\\ChangeOrderStatusCommandHandler.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAqwBYAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-31T14:54:20.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ChangeOrderStatusCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Togrul\\source\\repos\\OrderlyApp\\Orderly.Application\\Features\\MediatR\\Commands\\Orders\\ChangeOrderStatus\\ChangeOrderStatusCommand.cs",
+              "RelativeDocumentMoniker": "Orderly.Application\\Features\\MediatR\\Commands\\Orders\\ChangeOrderStatus\\ChangeOrderStatusCommand.cs",
+              "ToolTip": "C:\\Users\\Togrul\\source\\repos\\OrderlyApp\\Orderly.Application\\Features\\MediatR\\Commands\\Orders\\ChangeOrderStatus\\ChangeOrderStatusCommand.cs",
+              "RelativeToolTip": "Orderly.Application\\Features\\MediatR\\Commands\\Orders\\ChangeOrderStatus\\ChangeOrderStatusCommand.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAUwAsAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-31T14:53:47.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "OrderResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\Togrul\\source\\repos\\OrderlyApp\\Orderly.Application\\Features\\MediatR\\Commands\\Orders\\Create\\OrderResponseDto.cs",
+              "RelativeDocumentMoniker": "Orderly.Application\\Features\\MediatR\\Commands\\Orders\\Create\\OrderResponseDto.cs",
+              "ToolTip": "C:\\Users\\Togrul\\source\\repos\\OrderlyApp\\Orderly.Application\\Features\\MediatR\\Commands\\Orders\\Create\\OrderResponseDto.cs",
+              "RelativeToolTip": "Orderly.Application\\Features\\MediatR\\Commands\\Orders\\Create\\OrderResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-31T14:34:39.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "C:\\Users\\Togrul\\source\\repos\\OrderlyApp\\Orderly.Api\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "Orderly.Api\\Controllers\\OrdersController.cs",
+              "ToolTip": "C:\\Users\\Togrul\\source\\repos\\OrderlyApp\\Orderly.Api\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "Orderly.Api\\Controllers\\OrdersController.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAuwB0AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-31T14:22:51.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "OrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Togrul\\source\\repos\\OrderlyApp\\Orderly.Persistence\\Repositories\\OrderRepository.cs",
+              "RelativeDocumentMoniker": "Orderly.Persistence\\Repositories\\OrderRepository.cs",
+              "ToolTip": "C:\\Users\\Togrul\\source\\repos\\OrderlyApp\\Orderly.Persistence\\Repositories\\OrderRepository.cs",
+              "RelativeToolTip": "Orderly.Persistence\\Repositories\\OrderRepository.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwB8AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-31T14:16:10.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IOrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Togrul\\source\\repos\\OrderlyApp\\Orderly.Application\\Repositories\\IOrderRepository.cs",
+              "RelativeDocumentMoniker": "Orderly.Application\\Repositories\\IOrderRepository.cs",
+              "ToolTip": "C:\\Users\\Togrul\\source\\repos\\OrderlyApp\\Orderly.Application\\Repositories\\IOrderRepository.cs",
+              "RelativeToolTip": "Orderly.Application\\Repositories\\IOrderRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-31T14:15:52.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "RestourantRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Togrul\\source\\repos\\OrderlyApp\\Orderly.Persistence\\Repositories\\RestourantRepository.cs",
+              "RelativeDocumentMoniker": "Orderly.Persistence\\Repositories\\RestourantRepository.cs",
+              "ToolTip": "C:\\Users\\Togrul\\source\\repos\\OrderlyApp\\Orderly.Persistence\\Repositories\\RestourantRepository.cs",
+              "RelativeToolTip": "Orderly.Persistence\\Repositories\\RestourantRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T16:43:26.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IRestourantRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Togrul\\source\\repos\\OrderlyApp\\Orderly.Application\\Repositories\\IRestourantRepository.cs",
+              "RelativeDocumentMoniker": "Orderly.Application\\Repositories\\IRestourantRepository.cs",
+              "ToolTip": "C:\\Users\\Togrul\\source\\repos\\OrderlyApp\\Orderly.Application\\Repositories\\IRestourantRepository.cs",
+              "RelativeToolTip": "Orderly.Application\\Repositories\\IRestourantRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T16:42:56.568Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CreateOrderCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Togrul\\source\\repos\\OrderlyApp\\Orderly.Application\\Features\\MediatR\\Commands\\Orders\\Create\\CreateOrderCommandHandler.cs",
+              "RelativeDocumentMoniker": "Orderly.Application\\Features\\MediatR\\Commands\\Orders\\Create\\CreateOrderCommandHandler.cs",
+              "ToolTip": "C:\\Users\\Togrul\\source\\repos\\OrderlyApp\\Orderly.Application\\Features\\MediatR\\Commands\\Orders\\Create\\CreateOrderCommandHandler.cs",
+              "RelativeToolTip": "Orderly.Application\\Features\\MediatR\\Commands\\Orders\\Create\\CreateOrderCommandHandler.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAAAEkAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T16:41:02.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "CreateOrderItemDto.cs",
+              "DocumentMoniker": "C:\\Users\\Togrul\\source\\repos\\OrderlyApp\\Orderly.Application\\Features\\MediatR\\Commands\\Orders\\Create\\CreateOrderItemDto.cs",
+              "RelativeDocumentMoniker": "Orderly.Application\\Features\\MediatR\\Commands\\Orders\\Create\\CreateOrderItemDto.cs",
+              "ToolTip": "C:\\Users\\Togrul\\source\\repos\\OrderlyApp\\Orderly.Application\\Features\\MediatR\\Commands\\Orders\\Create\\CreateOrderItemDto.cs",
+              "RelativeToolTip": "Orderly.Application\\Features\\MediatR\\Commands\\Orders\\Create\\CreateOrderItemDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T16:37:42.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CreateOrderCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Togrul\\source\\repos\\OrderlyApp\\Orderly.Application\\Features\\MediatR\\Commands\\Orders\\Create\\CreateOrderCommand.cs",
+              "RelativeDocumentMoniker": "Orderly.Application\\Features\\MediatR\\Commands\\Orders\\Create\\CreateOrderCommand.cs",
+              "ToolTip": "C:\\Users\\Togrul\\source\\repos\\OrderlyApp\\Orderly.Application\\Features\\MediatR\\Commands\\Orders\\Create\\CreateOrderCommand.cs",
+              "RelativeToolTip": "Orderly.Application\\Features\\MediatR\\Commands\\Orders\\Create\\CreateOrderCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T16:37:12.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\Togrul\\source\\repos\\OrderlyApp\\Orderly.Domain\\Entities\\Order.cs",
+              "RelativeDocumentMoniker": "Orderly.Domain\\Entities\\Order.cs",
+              "ToolTip": "C:\\Users\\Togrul\\source\\repos\\OrderlyApp\\Orderly.Domain\\Entities\\Order.cs",
+              "RelativeToolTip": "Orderly.Domain\\Entities\\Order.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAABsAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T16:34:20.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ValidationBehavior.cs",
+              "DocumentMoniker": "C:\\Users\\Togrul\\source\\repos\\OrderlyApp\\Orderly.Application\\Common\\Behaviours\\ValidationBehavior.cs",
+              "RelativeDocumentMoniker": "Orderly.Application\\Common\\Behaviours\\ValidationBehavior.cs",
+              "ToolTip": "C:\\Users\\Togrul\\source\\repos\\OrderlyApp\\Orderly.Application\\Common\\Behaviours\\ValidationBehavior.cs",
+              "RelativeToolTip": "Orderly.Application\\Common\\Behaviours\\ValidationBehavior.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T16:29:32.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UpdateProductCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Togrul\\source\\repos\\OrderlyApp\\Orderly.Application\\Features\\MediatR\\Commands\\Products\\Update\\UpdateProductCommandHandler.cs",
+              "RelativeDocumentMoniker": "Orderly.Application\\Features\\MediatR\\Commands\\Products\\Update\\UpdateProductCommandHandler.cs",
+              "ToolTip": "C:\\Users\\Togrul\\source\\repos\\OrderlyApp\\Orderly.Application\\Features\\MediatR\\Commands\\Products\\Update\\UpdateProductCommandHandler.cs",
+              "RelativeToolTip": "Orderly.Application\\Features\\MediatR\\Commands\\Products\\Update\\UpdateProductCommandHandler.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T16:20:08.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UpdateProductCommandValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Togrul\\source\\repos\\OrderlyApp\\Orderly.Application\\Features\\MediatR\\Commands\\Products\\Update\\UpdateProductCommandValidator.cs",
+              "RelativeDocumentMoniker": "Orderly.Application\\Features\\MediatR\\Commands\\Products\\Update\\UpdateProductCommandValidator.cs",
+              "ToolTip": "C:\\Users\\Togrul\\source\\repos\\OrderlyApp\\Orderly.Application\\Features\\MediatR\\Commands\\Products\\Update\\UpdateProductCommandValidator.cs",
+              "RelativeToolTip": "Orderly.Application\\Features\\MediatR\\Commands\\Products\\Update\\UpdateProductCommandValidator.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAuwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T16:19:53.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "UpdateProductCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Togrul\\source\\repos\\OrderlyApp\\Orderly.Application\\Features\\MediatR\\Commands\\Products\\Update\\UpdateProductCommand.cs",
+              "RelativeDocumentMoniker": "Orderly.Application\\Features\\MediatR\\Commands\\Products\\Update\\UpdateProductCommand.cs",
+              "ToolTip": "C:\\Users\\Togrul\\source\\repos\\OrderlyApp\\Orderly.Application\\Features\\MediatR\\Commands\\Products\\Update\\UpdateProductCommand.cs",
+              "RelativeToolTip": "Orderly.Application\\Features\\MediatR\\Commands\\Products\\Update\\UpdateProductCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T16:19:16.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "20261030161232_init5.cs",
+              "DocumentMoniker": "C:\\Users\\Togrul\\source\\repos\\OrderlyApp\\Orderly.Persistence\\Migrations\\20261030161232_init5.cs",
+              "RelativeDocumentMoniker": "Orderly.Persistence\\Migrations\\20261030161232_init5.cs",
+              "ToolTip": "C:\\Users\\Togrul\\source\\repos\\OrderlyApp\\Orderly.Persistence\\Migrations\\20261030161232_init5.cs",
+              "RelativeToolTip": "Orderly.Persistence\\Migrations\\20261030161232_init5.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T16:12:32.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "RestorantCategory.cs",
+              "DocumentMoniker": "C:\\Users\\Togrul\\source\\repos\\OrderlyApp\\Orderly.Domain\\Entities\\RestorantCategory.cs",
+              "RelativeDocumentMoniker": "Orderly.Domain\\Entities\\RestorantCategory.cs",
+              "ToolTip": "C:\\Users\\Togrul\\source\\repos\\OrderlyApp\\Orderly.Domain\\Entities\\RestorantCategory.cs",
+              "RelativeToolTip": "Orderly.Domain\\Entities\\RestorantCategory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T16:02:31.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "20261030155843_init4.cs",
+              "DocumentMoniker": "C:\\Users\\Togrul\\source\\repos\\OrderlyApp\\Orderly.Persistence\\Migrations\\20261030155843_init4.cs",
+              "RelativeDocumentMoniker": "Orderly.Persistence\\Migrations\\20261030155843_init4.cs",
+              "ToolTip": "C:\\Users\\Togrul\\source\\repos\\OrderlyApp\\Orderly.Persistence\\Migrations\\20261030155843_init4.cs",
+              "RelativeToolTip": "Orderly.Persistence\\Migrations\\20261030155843_init4.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T15:58:43.72Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "20261030155009_init3.cs",
+              "DocumentMoniker": "C:\\Users\\Togrul\\source\\repos\\OrderlyApp\\Orderly.Persistence\\Migrations\\20261030155009_init3.cs",
+              "RelativeDocumentMoniker": "Orderly.Persistence\\Migrations\\20261030155009_init3.cs",
+              "ToolTip": "C:\\Users\\Togrul\\source\\repos\\OrderlyApp\\Orderly.Persistence\\Migrations\\20261030155009_init3.cs",
+              "RelativeToolTip": "Orderly.Persistence\\Migrations\\20261030155009_init3.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T15:50:09.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "20261030154222_init2.cs",
+              "DocumentMoniker": "C:\\Users\\Togrul\\source\\repos\\OrderlyApp\\Orderly.Persistence\\Migrations\\20261030154222_init2.cs",
+              "RelativeDocumentMoniker": "Orderly.Persistence\\Migrations\\20261030154222_init2.cs",
+              "ToolTip": "C:\\Users\\Togrul\\source\\repos\\OrderlyApp\\Orderly.Persistence\\Migrations\\20261030154222_init2.cs",
+              "RelativeToolTip": "Orderly.Persistence\\Migrations\\20261030154222_init2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T15:42:22.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\Togrul\\source\\repos\\OrderlyApp\\Orderly.Domain\\Entities\\Category.cs",
+              "RelativeDocumentMoniker": "Orderly.Domain\\Entities\\Category.cs",
+              "ToolTip": "C:\\Users\\Togrul\\source\\repos\\OrderlyApp\\Orderly.Domain\\Entities\\Category.cs",
+              "RelativeToolTip": "Orderly.Domain\\Entities\\Category.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwA0AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T15:40:29.344Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\Togrul\\source\\repos\\OrderlyApp\\Orderly.Api\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "Orderly.Api\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\Togrul\\source\\repos\\OrderlyApp\\Orderly.Api\\Controllers\\ProductsController.cs*",
+              "RelativeToolTip": "Orderly.Api\\Controllers\\ProductsController.cs*",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAuwBkAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T15:34:10.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\Togrul\\source\\repos\\OrderlyApp\\Orderly.Application\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "Orderly.Application\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\Togrul\\source\\repos\\OrderlyApp\\Orderly.Application\\DependencyInjection.cs",
+              "RelativeToolTip": "Orderly.Application\\DependencyInjection.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwBYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T15:31:52.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "CreateProductCommandValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Togrul\\source\\repos\\OrderlyApp\\Orderly.Application\\Features\\MediatR\\Commands\\Products\\Create\\CreateProductCommandValidator.cs",
+              "RelativeDocumentMoniker": "Orderly.Application\\Features\\MediatR\\Commands\\Products\\Create\\CreateProductCommandValidator.cs",
+              "ToolTip": "C:\\Users\\Togrul\\source\\repos\\OrderlyApp\\Orderly.Application\\Features\\MediatR\\Commands\\Products\\Create\\CreateProductCommandValidator.cs",
+              "RelativeToolTip": "Orderly.Application\\Features\\MediatR\\Commands\\Products\\Create\\CreateProductCommandValidator.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwCMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T15:30:02.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\Togrul\\source\\repos\\OrderlyApp\\Orderly.Persistence\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "Orderly.Persistence\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\Togrul\\source\\repos\\OrderlyApp\\Orderly.Persistence\\DependencyInjection.cs",
+              "RelativeToolTip": "Orderly.Persistence\\DependencyInjection.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T15:28:04.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\Togrul\\source\\repos\\OrderlyApp\\Orderly.Persistence\\Repositories\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "Orderly.Persistence\\Repositories\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\Togrul\\source\\repos\\OrderlyApp\\Orderly.Persistence\\Repositories\\UnitOfWork.cs",
+              "RelativeToolTip": "Orderly.Persistence\\Repositories\\UnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T15:27:30.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\Togrul\\source\\repos\\OrderlyApp\\Orderly.Application\\Repositories\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "Orderly.Application\\Repositories\\IUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\Togrul\\source\\repos\\OrderlyApp\\Orderly.Application\\Repositories\\IUnitOfWork.cs",
+              "RelativeToolTip": "Orderly.Application\\Repositories\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T15:26:58.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "CreateProductCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Togrul\\source\\repos\\OrderlyApp\\Orderly.Application\\Features\\MediatR\\Commands\\Products\\Create\\CreateProductCommandHandler.cs",
+              "RelativeDocumentMoniker": "Orderly.Application\\Features\\MediatR\\Commands\\Products\\Create\\CreateProductCommandHandler.cs",
+              "ToolTip": "C:\\Users\\Togrul\\source\\repos\\OrderlyApp\\Orderly.Application\\Features\\MediatR\\Commands\\Products\\Create\\CreateProductCommandHandler.cs",
+              "RelativeToolTip": "Orderly.Application\\Features\\MediatR\\Commands\\Products\\Create\\CreateProductCommandHandler.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAuwA0AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T15:19:28.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "ProductResult.cs",
+              "DocumentMoniker": "C:\\Users\\Togrul\\source\\repos\\OrderlyApp\\Orderly.Application\\Features\\MediatR\\Commands\\Products\\Create\\ProductResult.cs",
+              "RelativeDocumentMoniker": "Orderly.Application\\Features\\MediatR\\Commands\\Products\\Create\\ProductResult.cs",
+              "ToolTip": "C:\\Users\\Togrul\\source\\repos\\OrderlyApp\\Orderly.Application\\Features\\MediatR\\Commands\\Products\\Create\\ProductResult.cs",
+              "RelativeToolTip": "Orderly.Application\\Features\\MediatR\\Commands\\Products\\Create\\ProductResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T15:18:09.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "CreateProductCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Togrul\\source\\repos\\OrderlyApp\\Orderly.Application\\Features\\MediatR\\Commands\\Products\\Create\\CreateProductCommand.cs",
+              "RelativeDocumentMoniker": "Orderly.Application\\Features\\MediatR\\Commands\\Products\\Create\\CreateProductCommand.cs",
+              "ToolTip": "C:\\Users\\Togrul\\source\\repos\\OrderlyApp\\Orderly.Application\\Features\\MediatR\\Commands\\Products\\Create\\CreateProductCommand.cs",
+              "RelativeToolTip": "Orderly.Application\\Features\\MediatR\\Commands\\Products\\Create\\CreateProductCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T15:17:14.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Result.cs",
+              "DocumentMoniker": "C:\\Users\\Togrul\\source\\repos\\OrderlyApp\\Orderly.Domain\\Common\\Result.cs",
+              "RelativeDocumentMoniker": "Orderly.Domain\\Common\\Result.cs",
+              "ToolTip": "C:\\Users\\Togrul\\source\\repos\\OrderlyApp\\Orderly.Domain\\Common\\Result.cs",
+              "RelativeToolTip": "Orderly.Domain\\Common\\Result.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAWwBQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T15:15:47.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Togrul\\source\\repos\\OrderlyApp\\Orderly.Persistence\\Repositories\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "Orderly.Persistence\\Repositories\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\Togrul\\source\\repos\\OrderlyApp\\Orderly.Persistence\\Repositories\\ProductRepository.cs",
+              "RelativeToolTip": "Orderly.Persistence\\Repositories\\ProductRepository.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAuwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T15:12:46.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Togrul\\source\\repos\\OrderlyApp\\Orderly.Application\\Repositories\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "Orderly.Application\\Repositories\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\Togrul\\source\\repos\\OrderlyApp\\Orderly.Application\\Repositories\\IProductRepository.cs",
+              "RelativeToolTip": "Orderly.Application\\Repositories\\IProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T15:11:52.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "20261030143958_init.cs",
+              "DocumentMoniker": "C:\\Users\\Togrul\\source\\repos\\OrderlyApp\\Orderly.Persistence\\Migrations\\20261030143958_init.cs",
+              "RelativeDocumentMoniker": "Orderly.Persistence\\Migrations\\20261030143958_init.cs",
+              "ToolTip": "C:\\Users\\Togrul\\source\\repos\\OrderlyApp\\Orderly.Persistence\\Migrations\\20261030143958_init.cs",
+              "RelativeToolTip": "Orderly.Persistence\\Migrations\\20261030143958_init.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T14:39:58.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Togrul\\source\\repos\\OrderlyApp\\Orderly.Api\\Program.cs",
+              "RelativeDocumentMoniker": "Orderly.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\Togrul\\source\\repos\\OrderlyApp\\Orderly.Api\\Program.cs",
+              "RelativeToolTip": "Orderly.Api\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAQwBcAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T14:05:25.924Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Togrul\\source\\repos\\OrderlyApp\\Orderly.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "Orderly.Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\Togrul\\source\\repos\\OrderlyApp\\Orderly.Api\\appsettings.json",
+              "RelativeToolTip": "Orderly.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAABrAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-30T14:04:58.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Togrul\\source\\repos\\OrderlyApp\\Orderly.Persistence\\Context\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Orderly.Persistence\\Context\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Togrul\\source\\repos\\OrderlyApp\\Orderly.Persistence\\Context\\AppDbContext.cs",
+              "RelativeToolTip": "Orderly.Persistence\\Context\\AppDbContext.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAIwBUAAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T14:04:26.037Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "OrderItemConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Togrul\\source\\repos\\OrderlyApp\\Orderly.Persistence\\Configurations\\OrderItemConfiguration.cs",
+              "RelativeDocumentMoniker": "Orderly.Persistence\\Configurations\\OrderItemConfiguration.cs",
+              "ToolTip": "C:\\Users\\Togrul\\source\\repos\\OrderlyApp\\Orderly.Persistence\\Configurations\\OrderItemConfiguration.cs",
+              "RelativeToolTip": "Orderly.Persistence\\Configurations\\OrderItemConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T14:03:33.247Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "OrderConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Togrul\\source\\repos\\OrderlyApp\\Orderly.Persistence\\Configurations\\OrderConfiguration.cs",
+              "RelativeDocumentMoniker": "Orderly.Persistence\\Configurations\\OrderConfiguration.cs",
+              "ToolTip": "C:\\Users\\Togrul\\source\\repos\\OrderlyApp\\Orderly.Persistence\\Configurations\\OrderConfiguration.cs",
+              "RelativeToolTip": "Orderly.Persistence\\Configurations\\OrderConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T14:03:09.031Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "OrderStatusConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Togrul\\source\\repos\\OrderlyApp\\Orderly.Persistence\\Configurations\\OrderStatusConfiguration.cs",
+              "RelativeDocumentMoniker": "Orderly.Persistence\\Configurations\\OrderStatusConfiguration.cs",
+              "ToolTip": "C:\\Users\\Togrul\\source\\repos\\OrderlyApp\\Orderly.Persistence\\Configurations\\OrderStatusConfiguration.cs",
+              "RelativeToolTip": "Orderly.Persistence\\Configurations\\OrderStatusConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T14:02:41.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "ProductConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Togrul\\source\\repos\\OrderlyApp\\Orderly.Persistence\\Configurations\\ProductConfiguration.cs",
+              "RelativeDocumentMoniker": "Orderly.Persistence\\Configurations\\ProductConfiguration.cs",
+              "ToolTip": "C:\\Users\\Togrul\\source\\repos\\OrderlyApp\\Orderly.Persistence\\Configurations\\ProductConfiguration.cs",
+              "RelativeToolTip": "Orderly.Persistence\\Configurations\\ProductConfiguration.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAuwA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T14:01:59.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "CategoryConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Togrul\\source\\repos\\OrderlyApp\\Orderly.Persistence\\Configurations\\CategoryConfiguration.cs",
+              "RelativeDocumentMoniker": "Orderly.Persistence\\Configurations\\CategoryConfiguration.cs",
+              "ToolTip": "C:\\Users\\Togrul\\source\\repos\\OrderlyApp\\Orderly.Persistence\\Configurations\\CategoryConfiguration.cs",
+              "RelativeToolTip": "Orderly.Persistence\\Configurations\\CategoryConfiguration.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T14:01:30.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "RestotauntConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Togrul\\source\\repos\\OrderlyApp\\Orderly.Persistence\\Configurations\\RestotauntConfiguration.cs",
+              "RelativeDocumentMoniker": "Orderly.Persistence\\Configurations\\RestotauntConfiguration.cs",
+              "ToolTip": "C:\\Users\\Togrul\\source\\repos\\OrderlyApp\\Orderly.Persistence\\Configurations\\RestotauntConfiguration.cs",
+              "RelativeToolTip": "Orderly.Persistence\\Configurations\\RestotauntConfiguration.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAuwBQAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T13:59:49.364Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "C:\\Users\\Togrul\\source\\repos\\OrderlyApp\\Orderly.Domain\\Entities\\OrderItem.cs",
+              "RelativeDocumentMoniker": "Orderly.Domain\\Entities\\OrderItem.cs",
+              "ToolTip": "C:\\Users\\Togrul\\source\\repos\\OrderlyApp\\Orderly.Domain\\Entities\\OrderItem.cs",
+              "RelativeToolTip": "Orderly.Domain\\Entities\\OrderItem.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAmwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T13:25:35.168Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 150,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
