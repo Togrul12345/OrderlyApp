@@ -5,7 +5,7 @@ Category Entity-si:
 One-to-many əlaqəsi burda mövcuddur. Məntiqən bir category bir neçə restorana aid ola bilər və bir category-də bir neçə product mövcud ola bilər.
 
 Order Entity-si:
-Sonra Order tablesini qurdum. Burda da one-to-many əlaqə var:
+Sonra Order tablesini qurdum. Burda da one-to-many əlaqə var: 
 
 Bir orderin bir neçə orderitem-ı ola bilər.
 
