@@ -127,3 +127,4 @@ C:\Users\Togrul\source\repos\OrderlyApp\Orderly.Api\bin\Debug\net8.0\Microsoft.I
 C:\Users\Togrul\source\repos\OrderlyApp\Orderly.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
 C:\Users\Togrul\source\repos\OrderlyApp\Orderly.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
 C:\Users\Togrul\source\repos\OrderlyApp\Orderly.Api\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Togrul\source\repos\OrderlyApp\Orderly.Api\obj\Debug\net8.0\Orderly.Api.sourcelink.json

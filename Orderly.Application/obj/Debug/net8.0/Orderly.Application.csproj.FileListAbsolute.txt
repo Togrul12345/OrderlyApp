@@ -13,3 +13,4 @@ C:\Users\Togrul\source\repos\OrderlyApp\Orderly.Application\obj\Debug\net8.0\Ord
 C:\Users\Togrul\source\repos\OrderlyApp\Orderly.Application\obj\Debug\net8.0\refint\Orderly.Application.dll
 C:\Users\Togrul\source\repos\OrderlyApp\Orderly.Application\obj\Debug\net8.0\Orderly.Application.pdb
 C:\Users\Togrul\source\repos\OrderlyApp\Orderly.Application\obj\Debug\net8.0\ref\Orderly.Application.dll
+C:\Users\Togrul\source\repos\OrderlyApp\Orderly.Application\obj\Debug\net8.0\Orderly.Application.sourcelink.json

@@ -54,9 +54,6 @@ namespace Orderly.Persistence.Migrations
                         .HasMaxLength(100)
                         .HasColumnType("character varying(100)");
 
-                    b.Property<int>("RestaurantId")
-                        .HasColumnType("integer");
-
                     b.Property<DateTime?>("UpdatedAt")
                         .HasColumnType("timestamp with time zone");
 
@@ -74,8 +71,7 @@ namespace Orderly.Persistence.Migrations
                             CreatedAt = new DateTime(2026, 1, 1, 0, 0, 0, 0, DateTimeKind.Utc),
                             Description = "Ən dadlı və şirəli ət yeməkləri",
                             IsDeleted = false,
-                            Name = "Steaklər",
-                            RestaurantId = 0
+                            Name = "Steaklər"
                         },
                         new
                         {
@@ -83,8 +79,7 @@ namespace Orderly.Persistence.Migrations
                             CreatedAt = new DateTime(2026, 1, 1, 0, 0, 0, 0, DateTimeKind.Utc),
                             Description = "Odun peçində və təndirdə bişən təamlar",
                             IsDeleted = false,
-                            Name = "Milli Yeməklər",
-                            RestaurantId = 0
+                            Name = "Milli Yeməklər"
                         },
                         new
                         {
@@ -92,8 +87,7 @@ namespace Orderly.Persistence.Migrations
                             CreatedAt = new DateTime(2026, 1, 1, 0, 0, 0, 0, DateTimeKind.Utc),
                             Description = "Dadlı burgerlər və kartof qızartmaları",
                             IsDeleted = false,
-                            Name = "Fast Food & Burgerlər",
-                            RestaurantId = 0
+                            Name = "Fast Food & Burgerlər"
                         });
                 });
 

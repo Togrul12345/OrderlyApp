@@ -10,3 +10,4 @@ C:\Users\Togrul\source\repos\OrderlyApp\Orderly.Domain\obj\Debug\net8.0\refint\O
 C:\Users\Togrul\source\repos\OrderlyApp\Orderly.Domain\obj\Debug\net8.0\Orderly.Domain.pdb
 C:\Users\Togrul\source\repos\OrderlyApp\Orderly.Domain\obj\Debug\net8.0\ref\Orderly.Domain.dll
 C:\Users\Togrul\source\repos\OrderlyApp\Orderly.Domain\obj\Debug\net8.0\Orderly..6B5886CF.Up2Date
+C:\Users\Togrul\source\repos\OrderlyApp\Orderly.Domain\obj\Debug\net8.0\Orderly.Domain.sourcelink.json
