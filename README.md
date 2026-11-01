@@ -1,5 +1,4 @@
 Project Architecture & Implementation
-
 1. Entity Strukturu və Əlaqələr
 
 Bu layihəyə ilk başlayarkən öncə database strukturunu qurmaqla başladım. Arxitekturanı isə Onion olaraq seçdim.
@@ -10,7 +9,7 @@ One-to-many əlaqəsi burda mövcuddur. Məntiqən bir category bir neçə resto
 
 📌 Order Entity-si:
 
-Sonra Order tablesini qurdum. Burda da one-to-many əlaqə var: Bir orderin bir neçə orderitem-ı ola bilər.Bir order yalnızca bir restorana aid ola bilər və bir orderin yalnızca bir orderstatusu ola bilər.Bunun əksi də doğrudur, yəni bir orderstatusda bir neçə order, bir restoranda bir neçə order ola bilər. Həmçinin burda CalculateTotalPrice və ChangeStatus biznes məntiqlərini də bu entity-nin içərisində yazdım.
+Sonra Order tablesini qurdum. Burda da one-to-many əlaqə var: Bir orderin bir neçə orderitem-ı ola bilər. Bir order yalnızca bir restorana aid ola bilər və bir orderin yalnızca bir orderstatusu ola bilər. Bunun əksi də doğrudur, yəni bir orderstatusda bir neçə order, bir restoranda bir neçə order ola bilər. Həmçinin burda CalculateTotalPrice və ChangeStatus biznes məntiqlərini də bu entity-nin içərisində yazdım.
 
 📌 OrderItem Entity-si:
 
@@ -47,9 +46,8 @@ Bu yaratdığım entity-lərin biznes məntiqini Mediator ilə yazdım. Amma bun
 Layihəni işə salmaq üçün local-da table-ləri database-yə migrate etmək, daha sonra run etmək lazımdır. Layihəyə ümumi 3 saata yaxın vaxt sərf etdim.
 
 🚀 Daha çox vaxtım olsaydı etmək istədiyim şeylər:
-
 AutoMapper implementasiyası
-
 Global Exception Handler
-
+Loglama
+Araşdırma edib testing tətbiq etmək olardı
 Əlavə olaraq entity-ləri create və ya update etdiyim zaman müəyyən entity-lərin ID-sinə görə yoxlama etmək (yəni bəzi entity-ləri create etdiyimiz zaman foreign key-ə bərabər olan ədəd database-də olmaya bilər və bu exceptiona səbəb ola bilər).
