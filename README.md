@@ -46,8 +46,13 @@ Bu yaratdığım entity-lərin biznes məntiqini Mediator ilə yazdım. Amma bun
 Layihəni işə salmaq üçün local-da table-ləri database-yə migrate etmək, daha sonra run etmək lazımdır. Layihəyə ümumi 3 saata yaxın vaxt sərf etdim.
 
 🚀 Daha çox vaxtım olsaydı etmək istədiyim şeylər:
+
 AutoMapper implementasiyası
+
 Global Exception Handler
+
 Loglama
+
 Araşdırma edib testing tətbiq etmək olardı
+
 Əlavə olaraq entity-ləri create və ya update etdiyim zaman müəyyən entity-lərin ID-sinə görə yoxlama etmək (yəni bəzi entity-ləri create etdiyimiz zaman foreign key-ə bərabər olan ədəd database-də olmaya bilər və bu exceptiona səbəb ola bilər).
